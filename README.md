@@ -170,7 +170,7 @@ This provides a standard resolution suitable for real-time processing.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Real-Time-Object-Detection.git
+git clone https://github.com/lokeshjakhar7781/Real-Time-Object-Detection.git
 cd Real-Time-Object-Detection
 ```
 
@@ -187,6 +187,7 @@ python main.py
 ```
 
 Make sure your webcam is connected and accessible by your computer.
+
 
 ---
 
